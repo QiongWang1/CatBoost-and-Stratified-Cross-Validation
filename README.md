@@ -13,9 +13,6 @@ This competition is adapted and simplified from challenges organized by:
 - **Higher School of Economics** (Konstantin Vorontsov)  
 - **ODS.AI** (Yuriy Kashnitskiy)  
 
-**Competition Timeline:**  
-- **Start:** Jan 21, 2025  
-- **Close:** Feb 11, 2025  
 
 ---
 
@@ -26,7 +23,7 @@ The dataset contains player-level statistics (Radiant vs Dire teams) recorded du
 ---
 
 ## Evaluation
-The evaluation metric for this competition is **ROC AUC**.  
+The evaluation metric is **ROC AUC**.  
 
 - ROC AUC measures the ability of a classifier to distinguish between two classes.  
 - A perfect model will have an ROC AUC of **1.0**, while a random model will score around **0.5**.  
