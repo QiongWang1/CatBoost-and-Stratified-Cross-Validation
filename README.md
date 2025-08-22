@@ -7,7 +7,6 @@ The goal is to predict the outcome of matches based on player statistics.
 ---
 
 ## Credits
-This competition is adapted and simplified from challenges organized by:
 
 - **Yandex Data School** (Pavel Gein)  
 - **Higher School of Economics** (Konstantin Vorontsov)  
